@@ -1,0 +1,7 @@
+server:
+  port: 9090
+  
+app:
+  messages:
+    greetMsg: Good Morning;
+    WelcomeMsg: Welcome to Spring Boot Microservices Applications Demo 
